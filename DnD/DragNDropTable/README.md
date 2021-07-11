@@ -1,3 +1,7 @@
+<h1 align-center>
+  <a src="https://github.com/ijemmao/tutorials/tree/master/tier-list">Source: https://github.com/ijemmao/tutorials/tree/master/tier-list</a>
+</hi>
+
 <h1 align="center">Vanilla JS Tier List</h1>
 <p align="center">Tier List made with vanilla JavaScript</p>
 
